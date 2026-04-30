@@ -1,0 +1,127 @@
+{
+    "users": [
+        {
+            "name": "Abubakir",
+            "second": "Botirov",
+            "age": 15,
+            "gender": "M",
+            "city": "Toshkent shahri",
+            "district": "Uchtepa"
+        }
+    ],
+    "cities": [
+        "Andijon",
+        "Buxoro",
+        "Farg'ona",
+        "Jizzax",
+        "Xorazm",
+        "Namangan",
+        "Navoiy",
+        "Qashqadaryo",
+        "Samarqand",
+        "Sirdaryo",
+        "Surxondaryo",
+        "Toshkent",
+        "Toshkent shahri"
+    ],
+    "districts": {
+        "Andijon": [
+            "Asaka",
+            "Baliqchi",
+            "Bo'ston",
+            "Izboskan",
+            "Marhamat"
+        ],
+        "Buxoro": [
+            "G'ijduvon",
+            "Kogon",
+            "Olot",
+            "Peshku",
+            "Shofirkon"
+        ],
+        "Farg'ona": [
+            "Beshariq",
+            "Dang'ara",
+            "Rishton",
+            "Qo'qon",
+            "Yozyovon"
+        ],
+        "Jizzax": [
+            "Arnasoy",
+            "Baxmal",
+            "G'allaorol",
+            "Zafarobod",
+            "Zarbdor"
+        ],
+        "Xorazm": [
+            "Bog'ot",
+            "Gurlan",
+            "Hazorasp",
+            "Xonqa",
+            "Urganch"
+        ],
+        "Namangan": [
+            "Chortoq",
+            "Chust",
+            "Kosonsoy",
+            "Pop",
+            "To'raqo'rg'on"
+        ],
+        "Navoiy": [
+            "Karmana",
+            "Konimex",
+            "Navbahor",
+            "Nurota",
+            "Xatirchi"
+        ],
+        "Qashqadaryo": [
+            "Dehqonobod",
+            "Kasbi",
+            "Kitob",
+            "Shahrisabz",
+            "Yakkabog'"
+        ],
+        "Samarqand": [
+            "Bulung'ur",
+            "Ishtixon",
+            "Kattaqo'rg'on",
+            "Narpay",
+            "Urgut"
+        ],
+        "Sirdaryo": [
+            "Boyovut",
+            "Guliston",
+            "Mirzaobod",
+            "Oqoltin",
+            "Sardoba"
+        ],
+        "Surxondaryo": [
+            "Angor",
+            "Denov",
+            "Jarqo'rg'on",
+            "Sherobod",
+            "Termiz"
+        ],
+        "Toshkent": [
+            "Bekobod",
+            "Bo'ka",
+            "Chinoz",
+            "Ohangaron",
+            "Zangiota"
+        ],
+        "Toshkent shahri": [
+            "Bektemir",
+            "Chilonzor",
+            "Hamza (Yashnobod)",
+            "Mirobod",
+            "Mirzo Ulug'bek",
+            "Olmazor",
+            "Sergeli",
+            "Shayxontohur",
+            "Uchtepa",
+            "Yakkasaroy",
+            "Yunusobod",
+            "Yashnobod"
+        ]
+    }
+}
