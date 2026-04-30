@@ -7,6 +7,14 @@
             "gender": "M",
             "city": "Toshkent shahri",
             "district": "Uchtepa"
+        },
+        {
+            "name": "Ali",
+            "second": "Karimov",
+            "age": 15,
+            "gender": "M",
+            "city": "Toshkent",
+            "district": "Bo'ka"
         }
     ],
     "cities": [
